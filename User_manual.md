@@ -98,3 +98,62 @@ The factory default EDID is set to WQXGA (2560x1600). If your display has this r
 
 You can capture the EDID of the display device on the 616T so that when the computer connects to the 616T, it reads the virtual EDID information and identifies the device. This procedure is performed only once for the connected display device. After storing the EDID, the system can be connected and disconnected without having to set the EDID again. If the display device is replaced, the new EDID must be set on the 616T transmitter.
 
+To capture the EDID of a display device, do the following:
+
+1.	Power the display on.
+2.	Connect the 5V power adapter to the power socket of the 616T, and connect the adapter to the mains electricity.
+3.	Push the EDID button (illustrated in Figure 1), using a thin screwdriver. The status LED lights.
+4.	Connect the 616T unit directly to the display device.
+
+The status LED flashes rapidly while reading the EDID and turns off after about 7-8 seconds.
+
+5.	Disconnect the 616T from the display. The new EDID information is stored.
+
+![Image-2](https://github.com/mharunarrashid/Technical-writing/assets/8918364/4e5ec28f-29c5-4e27-8f38-eb58ac4f6930)
+
+Figure 1: The Auto EDID Button on the 616T
+
+### **4.2.	Connecting the Dual-Link Detachable Optical DVI System**
+
+To connect the 616T Dual-Link Detachable Optical DVI Transmitter with the 616R Dual-Link Detachable Optical DVI Receiver, as the example in Figure 3 illustrates, do the following:
+
+1.	Capture the EDID of the display device (see Section 4.1).
+2.	Connect the 616R to the 5V DC power adapter and connect the adapter to the mains electricity. The LED lights.
+3.	Connect the duplex LC fiber cable to the 616T and 616R modules, one connector at a time, as illustrated in Figure 2.
+4.	Plug the 616T DVI connector directly to the DVI connector of the computer.
+
+Do not use any intermediate cable or adapter between them, and connect cables 1 and 2 as indicated in Figure 2.
+
+5.	Connect the 616R DVI connector directly to the DVI connector of the display device.
+
+![Image-3](https://github.com/mharunarrashid/Technical-writing/assets/8918364/822d12a7-bad4-4d0b-8cd9-4d4e66022bc6)
+
+Figure 2: Connecting the Fiber Optic Cable
+
+6.	Turn on the computer power and then turn on the display device power.
+7.	If the transmitter does not power up, connect the 5V power adapter to the
+
+**616T transmitter, and connect the adapter to the mains electricity.**
+
+You can use the power supplied through a DVI PIN from the graphic cards instead of using the power adapter. After completing the installation, if the system does not seem to work properly, reconnect the power adapter while the system is powered.
+
+![Image-4](https://github.com/mharunarrashid/Technical-writing/assets/8918364/807a1646-5c94-4f01-9df2-5da01983cc53)
+
+Figure 3: Connecting the 616T/616R Dual-Link Detachable Optical DVI Transmitter/Receiver
+
+### **4.3.	Avoiding Pitfalls During Operation**
+
+If any of these problems occur, we recommend the following: If the display device shows only a black screen:
+4.3.1.	Check that all the AC and DC plugs and jacks used by the external power supplies are firmly connected
+4.3.2.	Check that the DVI ports are firmly plugged into the computer and the display device, and be sure that the transmitter and receiver modules are correctly plugged into the computer and display device, respectively
+4.3.3.	Check if the computer and display are powered on and properly booted
+4.3.4.	Reset the system by unplugging and then replugging the transmitter DVI port or receiver DVI port and then reboot the system.
+If the screen is distorted or displays noise:
+4.3.5.	Check if the graphics resolution is properly set
+4.3.6.	Go to Display Properties of Windows and check the settings
+4.3.7.	Be sure that the resolution is set for WQXGA (2560 x 1600) at 60Hz, or WQUXGA (3840x2400 @33Hz vertical refresh rate) (not to the unsupported XGA resolution)
+4.3.8.	Reset the system
+4.3.9.	Disconnect and reconnect the optical DVI cables
+
+
+![Image-5](https://github.com/mharunarrashid/Technical-writing/assets/8918364/f019813c-027f-4717-98e3-d5980de67fa5) Be sure that at all times the cables are stored and used away from liquid or dirt.
