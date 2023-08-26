@@ -30,3 +30,13 @@
 ##### Figure 2: Connecting the Fiber Optic Cables----------------------------9
 ##### Figure 3: Connecting the 616T------------------------------------------9
 
+#### **1.	Introduction**
+
+Welcome to Kramer Electronics. Kramer Electronics has been providing a world of unique, creative, and affordable solutions to a vast range of 
+problems that are faced with video, audio, presentation, and broadcasting professionals on a daily basis, making the best even better.
+Congratulations on purchasing your Kramer 616T Dual-Link Detachable Optical DVI Transmitter, which is ideal for the following typical applications:
+
+- [x] Digital flat panel and plasma displays used in medical, commercial, and travel applications
+- [ ] Conference rooms and auditoriums
+- [ ] Kiosks with digital flat panel displays for presenting information
+- [ ] LED signboards in streets and stadiums
