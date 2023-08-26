@@ -157,3 +157,7 @@ If the screen is distorted or displays noise:
 
 
 ![Image-5](https://github.com/mharunarrashid/Technical-writing/assets/8918364/f019813c-027f-4717-98e3-d5980de67fa5) Be sure that at all times the cables are stored and used away from liquid or dirt.
+
+### **5.	Technical Specifications**
+
+
