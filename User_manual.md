@@ -30,7 +30,7 @@
 ##### Figure 2: Connecting the Fiber Optic Cables----------------------------9
 ##### Figure 3: Connecting the 616T------------------------------------------9
 
-#### **1.	Introduction**
+### **1.	Introduction**
 
 Welcome to Kramer Electronics. Kramer Electronics has been providing a world of unique, creative, and affordable solutions to a vast range of 
 problems that are faced by video, audio, presentation, and broadcasting professionals on a daily basis, making the best even better.
@@ -41,14 +41,14 @@ Congratulations on purchasing your Kramer 616T Dual-Link Detachable Optical DVI 
 - [x] Kiosks with digital flat panel displays for presenting information
 - [x] LED signboards in streets and stadiums
 
-#### **2.	Getting Started**
+### **2.	Getting Started**
 
 We recommend that you:
 - [x] Unpack the equipment carefully and save the original box and packaging materials for possible future shipment
 - [x] Review the contents of this user manual
 - [x] Use Kramer high-performance, high-resolution cables
 
-#### **2.1.	Achieving the Best Performance**
+### **2.1.	Achieving the Best Performance**
 
 To achieve the best performance:
 - [x] Use only good-quality connection cables to avoid interference, deterioration in signal quality due to poor matching, and elevated noise levels (often associated with low-quality cables)
