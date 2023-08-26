@@ -1,11 +1,11 @@
-## KRAMER ELECTRONICS LTD.
+### KRAMER ELECTRONICS LTD.
 # **USER MANUAL**
-## **616T**
-## **Dual-Link Detachable Optical** 
-## **DVI Transmitter**
-## **616R**
-## **Dual-Link Detachable Optical**
-## **DVI Receiver**
+### **616T**
+### **Dual-Link Detachable Optical** 
+### **DVI Transmitter**
+### **616R**
+### **Dual-Link Detachable Optical**
+### **DVI Receiver**
 ##### Data Reference: www.kramerelectronics.com
 ### **Quick Start Guide:**
 ![Image-1](https://github.com/mharunarrashid/Technical-writing/assets/8918364/bb86ac2e-2566-4a84-8365-7d49a5046409)
@@ -56,6 +56,10 @@ To achieve the best performance:
 - [x] Position your Kramer 616T away from moisture, excessive sunlight, and dust
 
 
-##### **Caution:** No operator serviceable parts inside the unit
-##### **Warning:** Use only the Kramer Electronics input power wall adapter that is provided with the unit
-##### **Warning:** Disconnect the power and unplug the unit from the wall before installing
+###### **Caution:** No operator serviceable parts inside the unit
+###### **Warning:** Use only the Kramer Electronics input power wall adapter that is provided with the unit
+###### **Warning:** Disconnect the power and unplug the unit from the wall before installing
+
+### **3.	Overview**
+
+The 616T and 616R are a small and lightweight fiber optic transmitter and receiver pair that transmit uncompressed resolutions up to WQXGA (2560x1600 @60Hz) or WQUXGA (3840x2400 @33Hz vertical refresh rate) over dual link DVI to a range of up to 500 meters (1640 feet) over duplex multimode fiber optic cable with two LC connectors. The 616T converts dual-link DVI signals to optical signals that it transmits to the 616R. The 616R decodes the optical signals back to a dual-link DVI signal.
