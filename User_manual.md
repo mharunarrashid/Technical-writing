@@ -161,4 +161,19 @@ If the screen is distorted or displays noise:
 ### **5.	Technical Specifications**
 
 | **PARTICULARS** | **SPECIFICATION** |
-| **INPUT**| DVI IN (616T), 1 duplex multimode fiber optic with 2 LC connectors (616R) |
+| --------------- | ----------------- |
+| **INPUT:** | DVI IN (616T), 1 duplex multimode fiber optic with 2 LC connectors (616R) |
+| **OUTPUTS:** | 1 duplex multimode fiber optic with 2 LC connectors (616T), DVI OUT (616R) |
+| **RESOLUTION:** | 13.5Gbps (2.25Gbps bandwidth per graphic channel) WQUXGA, 33Hz (XGA is not supported) |
+| **MAX. RANGE::** | 500m (1640ft) for WQUXGA (3840x2400) at 33Hz refresh rate. |
+| **POWER CONSUMPTION:** | 5V DC, 430mA max. (616T); 350mA max. (616R) |
+| **OPERATING TEMPERATURE:** | 0° to +40°C (32° to 104°F) |
+| **STORAGE TEMPERATURE:** | -40° to +70°C (-40° to 158°F) |
+| **HUMIDITY:** | 10% to 85%, RHL non-condensing |
+| **DIMENSIONS:** | 3.9 cm x 7.2 cm x 1.5 cm (1.5" x 2.8" x 0.75") W, D, H |
+| **WEIGHT:** | 0.14kg (0.31lbs) approx. |
+| **ACCESSORIES:** | 2 power supplies: 5V DC/1A |
+| **OPTIONS:** | C-2LC/2LC 2 LC fiber optic cable |
+| Specifications are subject to change without notice |
+
+
