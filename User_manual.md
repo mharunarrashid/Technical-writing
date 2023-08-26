@@ -90,3 +90,11 @@ This section describes how to:
 - [x] Capture the EDID of the display device (see Section 4.1)
 - [x] Connect the detachable optical DVI transmitter and receiver (see Section 4.2)
 - [x] Avoid pitfalls when using the 616T and 616R (see Section 4.3)
+
+### **4.1.	Capturing the EDID**
+
+The 616T and 616R are connected via one dual-link channel. The EDID of the display device is captured by the transmitter for the computer to read.
+The factory default EDID is set to WQXGA (2560x1600). If your display has this resolution, you do not need to capture the EDID
+
+You can capture the EDID of the display device on the 616T so that when the computer connects to the 616T, it reads the virtual EDID information and identifies the device. This procedure is performed only once for the connected display device. After storing the EDID, the system can be connected and disconnected without having to set the EDID again. If the display device is replaced, the new EDID must be set on the 616T transmitter.
+
