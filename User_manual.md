@@ -176,4 +176,8 @@ If the screen is distorted or displays noise:
 | **OPTIONS:** | C-2LC/2LC 2 LC fiber optic cable |
 Specifications are subject to change without notice 
 
+### **LIMITED WARRANTY**
+
+The warranty obligations of Kramer Electronics for this product are limited to the terms set forth below: What is Covered
+This limited warranty covers defects in materials and workmanship in this products.
 
