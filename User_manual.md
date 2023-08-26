@@ -160,4 +160,5 @@ If the screen is distorted or displays noise:
 
 ### **5.	Technical Specifications**
 
-| **INPUT**            | DVI IN (616T), 1 duplex multimode fiber optic with 2 LC connectors (616R) |
+| **PARTICULARS** | **SPECIFICATION** |
+| **INPUT**| DVI IN (616T), 1 duplex multimode fiber optic with 2 LC connectors (616R) |
