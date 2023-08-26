@@ -37,6 +37,6 @@ problems that are faced with video, audio, presentation, and broadcasting profes
 Congratulations on purchasing your Kramer 616T Dual-Link Detachable Optical DVI Transmitter, which is ideal for the following typical applications:
 
 - [x] Digital flat panel and plasma displays used in medical, commercial, and travel applications
-- [ ] Conference rooms and auditoriums
-- [ ] Kiosks with digital flat panel displays for presenting information
-- [ ] LED signboards in streets and stadiums
+- [x] Conference rooms and auditoriums
+- [x] Kiosks with digital flat panel displays for presenting information
+- [x] LED signboards in streets and stadiums
