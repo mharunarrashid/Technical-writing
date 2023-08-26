@@ -55,6 +55,7 @@ To achieve the best performance:
 - [x] Do not secure the cables in tight bundles or roll the slack into tight coils
 - [x] Position your Kramer 616T away from moisture, excessive sunlight, and dust
 
-##### **Caution**:	No operator serviceable parts inside the unit
-##### **Warning**:	Use only the Kramer Electronics input power wall adapter that is provided with the unit
-##### **Warning**:	Disconnect the power and unplug the unit from the wall before installing
+
+##### **Caution:**	No operator serviceable parts inside the unit
+##### **Warning:**	Use only the Kramer Electronics input power wall adapter that is provided with the unit
+##### **Warning:**	Disconnect the power and unplug the unit from the wall before installing
