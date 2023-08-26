@@ -20,8 +20,13 @@
 ##### 3.1	Powering the 616T and the 616R-----------7
 ##### 4	Using the Dual-Link Detachable Optical DVI System----7
 ##### 4.1	Capturing the EDID---------------7
-##### 4.2	Connecting the Dual-Link Detachable Optical DVI System-----8
-##### 4.3	Avoiding Pitfalls During Operation--------------10
-##### 5	Technical Specifications------------------11
+##### 4.2	Connecting the Dual-Link Detachable Optical DVI System-------------8
+##### 4.3	Avoiding Pitfalls During Operation---------------------------------10
+##### 5	Technical Specifications---------------------------------------------11
 
 #### **Figures**
+
+##### Figure 1: The Auto EDID Button on the 616T-----------------------------8
+##### Figure 2: Connecting the Fiber Optic Cables----------------------------9
+##### Figure 3: Connecting the 616T------------------------------------------9
+
