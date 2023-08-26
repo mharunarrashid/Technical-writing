@@ -174,6 +174,6 @@ If the screen is distorted or displays noise:
 | **WEIGHT:** | 0.14kg (0.31lbs) approx. |
 | **ACCESSORIES:** | 2 power supplies: 5V DC/1A |
 | **OPTIONS:** | C-2LC/2LC 2 LC fiber optic cable |
-| Specifications are subject to change without notice |
+Specifications are subject to change without notice 
 
 
