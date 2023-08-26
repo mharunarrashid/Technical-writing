@@ -62,7 +62,7 @@ To achieve the best performance:
 
 ### **3.	Overview**
 
-The 616T and 616R are a small and lightweight fiber optic transmitter and receiver pair that transmit uncompressed resolutions up to WQXGA (2560x1600 @60Hz) or WQUXGA (3840x2400 @33Hz vertical refresh rate) over dual link DVI to a range of dual-link meters (1640 feet) over duplex multimode fiber optic cable with two LC connectors. The 616T converts dual-link DVI signals to optical signals that it transmits to the 616R. The 616R decodes the optical signals back to a dual-link DVI signal.
+The 616T and 616R are a small and lightweight fiber optic transmitter and receiver pair that transmit uncompressed resolutions up to WQXGA (2560x1600 @60Hz) or WQUXGA (3840x2400 @33Hz vertical refresh rate) over dual-link DVI to a range of dual-link meters (1640 feet) over duplex multimode fiber optic cable with two LC connectors. The 616T converts dual-link DVI signals to optical signals that it transmits to the 616R. The 616R decodes the optical signals back to a dual-link DVI signal.
 
 The **616T** and **616R** feature:
 
@@ -77,3 +77,16 @@ The **616T** and **616R** feature:
 - [x] HDTV compatibility, no HDCP compliance
 - [x] Two external 5V DC power adapters (supplied)
 - [x] Nano tools size
+
+
+### **3.1.	Powering the 616T and the 616R**
+
+Your 616T/616R pair comes with two 5V DC power adapters. The 616R module must always be powered by the power adapter. The 616T can be powered either by an external power adapter or internally from the 5V pin on the DVI card of the computer. The 616T automatically detects if it is being powered via the external power adapter, and if so, the internal power supply is cut off. An external power adapter for the 616T is strongly recommended for better performance.
+
+### **4.	Using the Dual-Link Detachable Optical DVI System**
+
+This section describes how to:
+
+- [x] Capture the EDID of the display device (see Section 4.1)
+- [x] Connect the detachable optical DVI transmitter and receiver (see Section 4.2)
+- [x] Avoid pitfalls when using the 616T and 616R (see Section 4.3)
