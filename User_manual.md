@@ -51,6 +51,6 @@ We recommend that you:
 #### **2.1.	Achieving the Best Performance**
 
 To achieve the best performance:
-i.	Use only good-quality connection cables to avoid interference, deterioration in signal quality due to poor matching, and elevated noise levels (often associated with low-quality cables)
-ii.	Do not secure the cables in tight bundles or roll the slack into tight coils
-iii. Position your Kramer 616T away from moisture, excessive sunlight, and dust
+- [x] Use only good-quality connection cables to avoid interference, deterioration in signal quality due to poor matching, and elevated noise levels (often associated with low-quality cables)
+- [x] Do not secure the cables in tight bundles or roll the slack into tight coils
+- [x] Position your Kramer 616T away from moisture, excessive sunlight, and dust
