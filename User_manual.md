@@ -33,7 +33,7 @@
 ### **1.	Introduction**
 
 Welcome to Kramer Electronics. Kramer Electronics has been providing a world of unique, creative, and affordable solutions to a vast range of 
-problems that are faced by video, audio, presentation, and broadcasting professionals on a daily basis, making the best even better.
+problems that are faced by video, audio, presentation, and broadcasting professionals daily, making the best even better.
 Congratulations on purchasing your Kramer 616T Dual-Link Detachable Optical DVI Transmitter, which is ideal for the following typical applications:
 
 - [x] Digital flat panel and plasma displays used in medical, commercial, and travel applications
@@ -62,4 +62,18 @@ To achieve the best performance:
 
 ### **3.	Overview**
 
-The 616T and 616R are a small and lightweight fiber optic transmitter and receiver pair that transmit uncompressed resolutions up to WQXGA (2560x1600 @60Hz) or WQUXGA (3840x2400 @33Hz vertical refresh rate) over dual link DVI to a range of up to 500 meters (1640 feet) over duplex multimode fiber optic cable with two LC connectors. The 616T converts dual-link DVI signals to optical signals that it transmits to the 616R. The 616R decodes the optical signals back to a dual-link DVI signal.
+The 616T and 616R are a small and lightweight fiber optic transmitter and receiver pair that transmit uncompressed resolutions up to WQXGA (2560x1600 @60Hz) or WQUXGA (3840x2400 @33Hz vertical refresh rate) over dual link DVI to a range of dual-link meters (1640 feet) over duplex multimode fiber optic cable with two LC connectors. The 616T converts dual-link DVI signals to optical signals that it transmits to the 616R. The 616R decodes the optical signals back to a dual-link DVI signal.
+
+The **616T** and **616R** feature:
+
+- [x] A maximum data rate of 13.5Gbps (2.25Gbps per graphic channel)
+- [x] Supported resolutions – HDTV: 480p, 720p, 1080p; Versa: VGA to WQUXGA @33Hz (XGA not supported)
+- [x] A range of up to 500m (1640ft) (multimode)
+- [x] Duplex multimode fiber optic cable with two LC connectors (Kramer C-2LC/2LC series)
+- [x] EDID capture that copies and stores the EDID from a display device (616T)
+- [x] Standards compliance - supports DVI1.0, fully implemented by fiber-optic communication and DDC2B by virtual DDC
+- [x] Compliance with the limits for a Class A digital device, under part 15 and 2 of FCC and CE
+- [x] No EMI/RFI from the interconnecting cable
+- [x] HDTV compatibility, no HDCP compliance
+- [x] Two external 5V DC power adapters (supplied)
+- [x] Nano tools size
