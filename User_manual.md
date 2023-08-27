@@ -179,13 +179,6 @@ Specifications are subject to change without notice
 ### **LIMITED WARRANTY**
 
 The warranty obligations of Kramer Electronics for this product are limited to the terms set forth below: What is Covered
-This limited warranty covers defects in materials and workmanship in this products.
+This limited warranty covers defects in materials and workmanship in this product.
 
-> [!NOTE]
-Highlights information that users should take into account, even when skimming.
 
-> [!IMPORTANT]
-Crucial information necessary for users to succeed.
-
-> [!WARNING]
-Critical content demanding immediate user attention due to potential risks.
