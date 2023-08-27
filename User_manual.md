@@ -181,4 +181,4 @@ Specifications are subject to change without notice
 The warranty obligations of Kramer Electronics for this product are limited to the terms set forth below: What is Covered
 This limited warranty covers defects in materials and workmanship in this products.
 
-[^1]: footnot
+
